@@ -1,2 +1,3 @@
 # print(1+1)
-print("Vai tomar no teu cu vei")
+print("testando o git")
+print("testando o git")
